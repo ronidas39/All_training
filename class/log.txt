@@ -1,0 +1,2 @@
+i-085094cd2fe103300,type,linux-app-server
+i-09177ecec2e3e247b,type,solaris-db-server
